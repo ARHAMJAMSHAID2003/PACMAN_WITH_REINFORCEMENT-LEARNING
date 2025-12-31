@@ -1,0 +1,1 @@
+This project implements Reinforcement Learning (RL) techniques to train an intelligent Pacman agent that learns how to navigate the environment, collect rewards, and avoid ghosts through interaction with the game world. The agent improves its decision-making over time by learning from experience rather than relying on hard-coded rules.
